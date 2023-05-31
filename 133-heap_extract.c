@@ -9,4 +9,4 @@
 int heap_extract(heap_t **root)
 {
 	return (root);
-}}
+}
